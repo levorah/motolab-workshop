@@ -13,7 +13,8 @@ dist-ssr
 *.local
 #env
 .env
-
+# personal config file
+src/config/*
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
