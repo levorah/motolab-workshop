@@ -24,13 +24,6 @@ export default function Home() {
                         className="w-full h-64 object-cover rounded-lg"
                     />
                 </div>
-
-                {/* Contact Section */}
-                <div className="mt-8" id="contact">
-                    <h2 className="text-2xl font-semibold mb-4">Contact Us</h2>
-                    <p>Email: contact@bikerepair.com</p>
-                    <p>Phone: 123-456-7890</p>
-                </div>
             </div>
         </>
     )
